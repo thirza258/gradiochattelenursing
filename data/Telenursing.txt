@@ -1,0 +1,377 @@
+Telenursing
+
+SDIDTK
+Ns. Mardiyanti., MKep., MDS
+
+Telenursing SDIDTK
+
+Aplikasi Telenursing SDIDTK adalah jembatan digital antara
+orang tua, anak, dan tenaga kesehatan untuk memastikan
+tumbuh kembang anak optimal sejak dini, dengan
+memadukan pemantauan, deteksi, edukasi, dan intervensi.
+
+Telenursing SDIDTK
+Kelebihan
+Praktis
+Papper less
+telah teruji oleh mahasiswa keperawatan ui
+Terdaftar HaKI tahun 2021
+Kelemahan
+aplikasi berbasis android
+belum teruji pada lingkungan sesungguhnya (puskesmas, klinik, RS)
+
+Menu Dalam Aplikasi
+01
+
+03
+
+Deteksi Dini
+Gangguan
+Pertumbuhan
+Tes Daya Dengar
+(TDD)
+
+02
+
+04
+
+05
+
+Deteksi Dini Autis
+pada Anak
+
+06
+
+07
+
+Deteksi Dini GPPH
+(Gangguan
+
+08
+
+Deteksi Dini
+Penyimpangan
+Perkembangan Anak
+Tes Daya Lihat (TDL)
+
+Deteksi Dini
+Penyimpangan Perilaku
+dan Emosional
+
+Tahapan
+Perkembangan
+
+Deteksi Dini Gangguan
+Pertumbuhan
+Masukkan Tanggal Lahir
+anak → sistem otomatis
+menghitung usia saat ini
+(dalam bulan/tahun).
+
+Pilih Jenis Kelamin →
+penting karena standar
+pertumbuhan berbeda
+antara anak laki-laki dan
+perempuan.
+Isi Berat Badan (kg) anak.
+Isi Tinggi/Panjang Badan
+(cm) anak.
+Klik tombol “Lihat Hasil” →
+sistem akan menampilkan
+status pertumbuhan anak
+berdasarkan standar WHO
+(kurva pertumbuhan).
+
+Deteksi Dini Gangguan
+Pertumbuhan
+
+Kasus 1. Anak laki-laki lahir tanggal: 22 Agustus 2024
+Usia = 1 tahun 1 bulan (13 bulan)
+PB = 70 cm, BB= 8 Kg (untuk koma, gunakan “titik”)
+
+Deteksi Dini Gangguan
+Pertumbuhan
+SDIDTK 2019
+
+KMK no 2 tahun 2020
+
+Deteksi Dini Gangguan
+Pertumbuhan
+
+KMK no 2 tahun 2020
+
+Deteksi Dini Gangguan
+Pertumbuhan
+Kasus 1. Anak laki-laki lahir tanggal: 22 Agustus 2024
+Usia = 1 tahun 1 bulan (13 bulan)
+PB = 70 cm, BB= 8 Kg (untuk koma, gunakan “titik”)
+
+Deteksi Dini Penyimpangan
+Perkembangan Anak
+
+Masukkan Tanggal Lahir
+anak → sistem otomatis
+menghitung usia saat ini
+dalam bulan/tahun.
+
+Tekan tombol “Lanjut” → sistem akan
+menampilkan pertanyaan atau
+kuesioner perkembangan sesuai
+kelompok usia anak (misalnya umur 6
+bulan, 12 bulan, 24 bulan, dll).
+
+Pertanyaan biasanya
+meliputi 4 aspek utama:
+Motorik kasar
+Motorik halus
+Bahasa .
+Personal-sosial
+
+Interpretasi Hasil
+Sesuai Usia → perkembangan anak
+normal sesuai milestone usianya.
+Meragukan → ada beberapa
+keterampilan yang belum dikuasai,
+perlu stimulasi dan dipantau ulang.
+Penyimpangan → ada keterlambatan
+signifikan pada satu atau lebih aspek,
+perlu dirujuk ke tenaga kesehatan untuk
+pemeriksaan lebih lanjut.
+
+Menu ini membantu orang tua mendeteksi keterlambatan perkembangan sejak dini sehingga intervensi bisa segera
+dilakukan.
+
+Tes Daya Dengar (TDD)
+
+Masukkan Tanggal Lahir
+anak → sistem otomatis
+menghitung usia saat ini
+dalam bulan/tahun.
+
+Klik “Lanjut” → aplikasi akan
+menampilkan daftar pertanyaan
+sesuai kelompok usia anak
+
+Tes ini penting karena gangguan pendengaran
+bisa memengaruhi kemampuan bicara dan
+bahasa anak.
+
+Contoh Kuesioner
+Tes daya dengar
+
+Interpretasi Hasil
+Normal / Sesuai Usia →
+respon pendengaran baik,
+sesuai tahap
+perkembangan.
+Gangguan / Penyimpangan
+→ tidak ada respon sesuai
+usia, anak perlu
+pemeriksaan lebih lanjut ke
+tenaga kesehatan
+(audiometri atau THT).
+
+Tes Daya Lihat (TDL)
+Ikuti instruksi yang ada dan
+jawab pertanyaan di bagian
+paling bawah
+
+Masukkan Tanggal Lahir
+anak → sistem otomatis
+menghitung usia saat ini
+dalam bulan/tahun.
+
+Klik “Lanjut” → aplikasi akan
+menampilkan daftar pertanyaan
+sesuai kelompok usia anak
+
+Tes ini penting karena gangguan penglihatan bisa
+memengaruhi perkembangan motorik halus,
+belajar membaca, dan interaksi sosial.
+
+Deteksi Dini Autis
+Pada Anak
+
+Masukkan Tanggal
+Lahir anak → sistem
+otomatis menghitung
+usia saat ini dalam
+bulan/tahun.
+
+Interpretasi Hasil
+
+Menu ini bermanfaat untuk skrining awal sehingga orang tua bisa
+waspada sejak dini, karena deteksi dan intervensi lebih cepat akan
+meningkatkan perkembangan anak dengan autisme.
+
+Klik “Lanjut” →
+aplikasi akan
+menampilkan daftar
+pertanyaan M-CHAT
+
+Cara menggunakan M-CHAT.
+Ajukan pertanyaan dengan lambat, jelas dan
+nyaring, satu persatu perilaku yang tetulis
+pada M-CHAT kepada orang tua atau pengasuh
+anak.
+Lakukan pengamatan kemampuan anak sesuai
+dengan tugas pada Modified-Checklist for
+Autism in Toddlers (M-CHAT)
+Catat jawaban orang tua/pengasuh anak dan
+kesimpulan hasil pengamatan kemampuan
+anak, YA atau TIDAK. Teliti kembali apakah
+semua pertanyaan telah dijawab.
+
+Deteksi Dini Penyimpangan
+Perilaku dan Emosional
+
+Interpretasi Hasil
+
+Menu ini penting karena masalah perilaku dan emosional bisa
+berdampak pada hubungan sosial, prestasi belajar, serta
+kesehatan mental anak di masa depan.
+
+Masukkan Tanggal
+Lahir anak → sistem
+otomatis menghitung
+usia saat ini dalam
+bulan/tahun.
+Klik “Lanjut” →
+aplikasi akan
+menampilkan daftar
+pertanyaan .
+Kuesioner Masalah
+Perilaku Emosional
+(KMPE)
+
+Cara melakukan :
+Tanyakan setiap pertanyaan dengan lambat,
+jelas dan nyaring, satu persatu perilaku yang
+tertulis pada KMPE kepada orang
+tua/pengasuh anak.
+Catat jawaban YA, kemudian hitung jumlah
+jawaban YA.
+
+Deteksi Dini Penyimpangan
+Perilaku dan Emosional
+
+Interpretasi Hasil
+
+Cara menggunakan formulir deteksi dini GPPH:
+Ajukan pertanyaan dengan lambat, jelas dan nyaring, satu persatu perilaku yang tertulis
+pada formulir deteksi dini GPPH. Jelaskan kepada orangtua/pengasuh anak untuk tidak
+ragu-ragu atau takut menjawab.
+Lakukan pengamatan kemampuan anak sesuai dengan pertanyaan pada formulir deteksi
+dini GPPH.
+Keadaan yang ditanyakan/diamati ada pada anak dimanapun anak berada, misal ketika di
+rumah, sekolah, pasar, toko, dll);setiap saat dan ketika anak dengan siapa saja.
+Catat jawaban dan hasil pengamatan perilaku anak selama dilakukan pemeriksaan.
+Teliti kembali apakah semua pertanyaan telah dijawab.
+
+Masukkan Tanggal
+Lahir anak → sistem
+otomatis menghitung
+usia saat ini dalam
+bulan/tahun.
+Klik “Lanjut” → aplikasi
+akan menampilkan
+daftar pertanyaan .
+formulir deteksi dini
+Gangguan Pemusatan
+Perhatian dan
+Hiperaktivitas/GPPH
+(Abbreviated Conners
+Ratting Scale)
+
+Menu ini bermanfaat untuk
+mendeteksi dini ADHD, sehingga
+intervensi bisa dilakukan lebih
+awal guna membantu anak dalam
+belajar, bersosialisasi, dan
+mengendalikan perilaku.
+
+Tahapan Perkembangan
+dan Stimulasi
+Pada layar aplikasi ini terdapat pilihan usia anak yang terbagi ke dalam
+beberapa kelompok umur. Masing-masing tombol usia tersebut berisi
+informasi tahapan perkembangan anak sesuai usianya (motorik kasar,
+motorik halus, bahasa/komunikasi, dan sosial-emosional) serta cara
+stimulasi yang tepat yang bisa dilakukan orang tua.
+
+Fungsi menu ini:
+Sebagai panduan praktis bagi orang tua untuk memahami milestone
+perkembangan anak.
+Memberikan stimulasi sesuai usia sehingga anak dapat berkembang
+optimal.
+Membantu mendeteksi dini keterlambatan perkembangan dengan
+membandingkan capaian anak dengan tahapan normal.
+
+Menu ini sangat berguna sebagai panduan
+orang tua, agar bisa menilai sendiri apakah
+anak berkembang sesuai tahapan atau perlu
+bantuan tambahan.
+
+Pembuatan Aplikasi
+Telenursing
+01
+
+02
+
+03
+
+Sistem yang Dipakai
+Aplikasi dikembangkan dengan React Native (framework untuk membuat
+aplikasi mobile).
+Memudahkan aplikasi berjalan di Android maupun iOS.
+
+Kalkulasi Hasil Penilaian (Status Gizi, Perkembangan, Autisme, dll.)
+Menggunakan big data yang bersumber dari standar nasional.
+Perhitungan berbasis if–else logic pada kode JavaScript.
+Hasil kalkulasi terukur dan akurat karena mengikuti rentang nilai standar.
+
+Proses Menjadi Fitur Aplikasi
+Kode ditulis sesuai aturan React Native.
+Setelah dicek bebas error
+dikompilasi menjadi aplikasi dengan berbagai fitur.
+
+→
+
+04
+
+Pendaftaran ke Google Play Console
+Hasil compile aplikasi diubah menjadi file .aab (Android App Bundle).
+File .aab diunggah ke Google Play Console sesuai aturan.
+Setelah lolos verifikasi, aplikasi resmi terbit di Play Store.
+
+📥 Cara Download Aplikasi
+
+Buka Google Play Store di HP Android.
+Pada kolom pencarian, ketik: “Telenursing
+SDIDTK”.
+Pilih aplikasi dengan ikon sesuai gambar (ikon
+komputer + tenaga medis, developer:
+mardiyanti).
+Klik tombol “Install”.
+Tunggu proses unduhan dan pemasangan
+selesai.
+Setelah terpasang, tombol akan berubah
+menjadi “Buka” → klik untuk menjalankan
+aplikasi.
+
+Thank You
+
+Studio Shodwe
+
+Home
+
+Ada
+pertanyaan?..
+02
+
+Photo
+
+About Us
+
+Contact
+
+
