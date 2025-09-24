@@ -29,8 +29,6 @@ demo = gr.ChatInterface(
     title="Telenursing Chatbot",
     description="Tanyakan apa saja tentang telenursing. Kami siap membantu Anda!",
     theme="light",  # Use a light theme for the interface
-   
-    clear_on_submit=True,  # Clear the input box after submitting a message
     examples=[        # Provide example questions for users
         "Apa itu telenursing?",
         "Bagaimana cara kerja telenursing?",
