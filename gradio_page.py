@@ -22,14 +22,20 @@ def rag_chat(message, history):
     except Exception as e:
         return f"Error: {str(e)}"
 
-# Build Gradio chat UI
 demo = gr.ChatInterface(
     fn=rag_chat,
-    # The 'type' parameter is deprecated, Gradio infers it. You can remove it.
-    # type="messages", 
+    type="messages",
     autofocus=False,
-    title="RAG Chatbot",
-    description="Ask questions based on the indexed documents."
+    title="Telenursing Chatbot",
+    description="Tanyakan apa saja tentang telenursing. Kami siap membantu Anda!",
+    theme="light",  # Use a light theme for the interface
+    retry=True,       # Allow users to retry sending messages
+    clear_on_submit=True,  # Clear the input box after submitting a message
+    examples=[        # Provide example questions for users
+        "Apa itu telenursing?",
+        "Bagaimana cara kerja telenursing?",
+        "Apa manfaat telenursing bagi pasien?"
+    ],
 )
 
 # 2. Add the deployment logic here
