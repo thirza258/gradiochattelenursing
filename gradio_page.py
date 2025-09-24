@@ -28,7 +28,7 @@ demo = gr.ChatInterface(
     autofocus=False,
     title="Telenursing Chatbot",
     description="Tanyakan apa saja tentang telenursing. Kami siap membantu Anda!",
-    theme="light",  # Use a light theme for the interface
+    theme=gr.themes.Default(primary_hue="blue", secondary_hue="gray"),
     examples=[        # Provide example questions for users
         "Apa itu telenursing?",
         "Bagaimana cara kerja telenursing?",
